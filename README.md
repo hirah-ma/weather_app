@@ -1,7 +1,7 @@
 # Weather App Project  
 
 ## Screenshots  
-![App Screenshot](images/ss.jpg)  
+![App Screenshot](streamlitWheather/images/ss.jpg)  
 ## Overview  
 This project is a Weather App built using **Streamlit** that allows users to:  
 - Fetch current weather details and a 12-hour forecast for any city using the **OpenWeatherMap API**.  
