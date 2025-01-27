@@ -6,7 +6,7 @@ from datetime import datetime
 # Assessment 1: Weather App with Current and 12-Hour Forecast
 # ----------------------------------------------------------
 # OpenWeatherMap API details
-API_KEY = "da534610967dd88678faf510f5ce75f9"
+API_KEY = "YOUR_API_KEY"
 BASE_URL_CURRENT = "https://api.openweathermap.org/data/2.5/weather"
 BASE_URL_FORECAST = "https://api.openweathermap.org/data/2.5/forecast"
 st.markdown("#### Created by Hirah Mohammadi Afroze")
